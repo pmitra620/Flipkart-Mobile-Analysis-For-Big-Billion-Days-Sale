@@ -1,4 +1,4 @@
-# 📊 Flipkart Mobile Market Analysis – Big Billion Days Edition
+# ![Image](https://github.com/user-attachments/assets/b9488da3-95c1-4ffd-b0a9-c7e23750818f)Flipkart Mobile Market Analysis – Big Billion Days Edition
 
 This repository presents a data-driven mobile market analysis using Power BI, designed specifically around **Flipkart's Big Billion Days Sale**. The objective is to uncover pricing trends, brand strategies, customer preferences, and performance across various product segments using real-time and historic Flipkart data.
 
